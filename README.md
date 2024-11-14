@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neel
 - 👀 I’m interested in Risk and Analytics
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Business Data Analytics
 - 📫 Reach me @ neelakanta.vr@gmail.com
 
 <!---
