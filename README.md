@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Neel
+- 👋 Hi, I’m Neel.
+-  Internal Auditor | Academic | Ex-KPMG | Ex-IIMB
 - 👀 I’m interested in Risk and Analytics
 - 🌱 I’m currently learning Business Data Analytics
 - 📫 Reach me @ neelakanta.vr@gmail.com
